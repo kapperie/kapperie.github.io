@@ -1,0 +1,23 @@
+
+
+h1 {
+    text-align: center;
+  }
+
+
+
+  body{
+    background-image: url('danceroom.gif');
+    background-size: cover;
+    background-position: center;
+  }
+
+  h1 {
+    color: rgb(122, 43, 112);
+  }
+
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  
